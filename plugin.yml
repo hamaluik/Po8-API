@@ -1,0 +1,11 @@
+name: Po8
+main: com.hamaluik.po8.po8
+version: 1.0.0
+author: FuzzyWuzzie
+softdepend: [PermissionsEx]
+commands:
+   shop:
+      description: interact with the shop
+      usage: |
+            usage:
+                /shop
